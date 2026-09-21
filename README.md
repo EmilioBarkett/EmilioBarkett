@@ -1,4 +1,4 @@
-## Hi, I'm Emilio 👋
+### Hi, I'm Emilio 👋
 
 I'm an **AI safety generalist** focused on fieldbuilding at the intersection of AI safety and the social sciences. I want to bring the deep, underutilized pool of social science researchers into AI safety.
 
