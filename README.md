@@ -1,4 +1,4 @@
-# Hi, I'm Emilio 👋
+## Hi, I'm Emilio 👋
 
 I'm an **AI safety generalist** focused on fieldbuilding at the intersection of AI safety and the social sciences. I want to bring the deep, underutilized pool of social science researchers into AI safety.
 
@@ -8,7 +8,5 @@ My work is in empirical and technical AI governance, along two threads:
 2. **How organizations adopt AI**, especially how they identify, communicate about, and manage the risks that come with it.
 
 I'm currently a **Research Mentor at [SPAR](https://sparai.org/)**, where I lead projects on the above topics.
-
-## Get in touch
 
 I'm always happy to chat with new people, so feel free to reach out via [my website](https://emiliobarkett.github.io/).
