@@ -1,8 +1,8 @@
 ### Hi, I'm Emilio 👋
 
-I'm an **AI safety generalist** focused on fieldbuilding at the intersection of AI safety and the social sciences. I want to bring the deep, underutilized pool of social science researchers into AI safety.
+I'm an **AI safety researcher and fieldbuilder**. I work on preparing society for powerful artificial intelligence through technical AI governance, focusing on empirical model behavior and institutional risk management.
 
-My work is in empirical and technical AI governance, along two threads:
+My work spans two threads:
 
 1. **How AI systems replicate human behavior**, and what that means for society, especially how models pick up and reproduce human biases, personas, and social dynamics.
 2. **How organizations adopt AI**, especially how they identify, communicate about, and manage the risks that come with it.
